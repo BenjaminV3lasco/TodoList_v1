@@ -1,0 +1,178 @@
+#body{
+    font-family: "Comfortaa";
+  }
+  
+  h2{
+    text-align: center;
+  }
+  
+  
+  .tarea_1{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    margin-top: 45px;
+    margin-left: 530px;
+    border: 1px solid;
+    line-height: normal;
+  }
+  
+  .boton_1{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 15.5%;
+    left: 40.6%;  
+  }
+  
+  
+  .tarea_2{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 530px;
+    border: 1px solid;
+    line-height: normal;
+  }
+  
+  .boton_2{
+  
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 21.5%;
+    left: 40.4%;  
+  }
+  
+  .tarea_3{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 530px;
+    border: 1px solid;
+    line-height: normal;
+  }
+  
+  .boton_3{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 28%;
+    left: 40.6%;  
+  }
+  
+  .tarea_4{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 530px;
+    border: 1px solid;
+    line-height: normal;
+  }
+  
+  .boton_4{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 34.5%;
+    left: 40.6%;  
+  }
+  
+  
+  .tarea_5{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 530px;
+    border: 1px solid;
+    line-height: normal;
+  }
+  
+  .boton_5{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 40.3%;
+    left: 40.4%;  
+  }
+  
+  .boton{
+    position: absolute;
+    top: 8.9%;
+    left: 54.6%;
+    width: 55px;
+    height: 30px;
+  }
+  
+  .formulario{
+    height: 23px;
+    width: 185px;
+    position: absolute;
+    top: 9%;
+    left: 40%; 
+  }
+  
+  
+  .papelera{
+    position: absolute;
+    padding: 0%;
+    margin: 0%;
+    background-color: transparent;
+    border:none;
+    width: 15px;
+    height: 15px;
+    top: 15.3%;
+    left: 57%;  
+  }
+  
+  .papelera2{
+    position: absolute;
+    padding: 0%;
+    margin: 0%;
+    background-color: transparent;
+    border:none;
+    width: 15px;
+    height: 15px;
+    top: 22%;
+    left: 57%;  
+  }
+  
+  .papelera3{
+    position: absolute;
+    padding: 0%;
+    margin: 0%;
+    background-color: transparent;
+    border:none;
+    width: 15px;
+    height: 15px;
+    top: 28%;
+    left: 57%;  
+  }
+  
+  .papelera4{
+    position: absolute;
+    padding: 0%;
+    margin: 0%;
+    background-color: transparent;
+    border:none;
+    width: 15px;
+    height: 15px;
+    top: 34.5%;
+    left: 57%;  
+  }
+  
+  .papelera5{
+    position: absolute;
+    padding: 0%;
+    margin: 0%;
+    background-color: transparent;
+    border:none;
+    width: 15px;
+    height: 15px;
+    top: 40.3%;
+    left: 57%;  
+  }
